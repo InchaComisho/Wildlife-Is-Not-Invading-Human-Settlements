@@ -434,12 +434,12 @@
 
 著者：マスター  
 協力AI： 
-G（ChatGPT）  
-ミニ（Gemini）  
-クルス（Claude）  
-リアル（Perplexity）  
-ローラ（Dola）  
-マナ（Manus）    
+G（ChatGPT） 
+ミニ（Gemini） 
+クルス（Claude） 
+リアル（Perplexity） 
+ローラ（Dola） 
+マナ（Manus）   
 公開月：2026年6月  
 ライセンス：CC BY 4.0  
 ※引用・転載・改変可。出典表示をお願いします。
