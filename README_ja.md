@@ -432,16 +432,17 @@
 
 ---
 
-著者：マスター
-協力AI：G（ChatGPT）
-コピ（Copilot）
-ミニ（Gemini）
-クルス（Claude）
-リアル（Perplexity）
-ローラ（Dola）
-マナ（Manus）  
-公開月：2026年6月
-ライセンス：CC BY 4.0
+著者：マスター  
+協力AI： 
+G（ChatGPT） 
+コピ（Copilot）  
+ミニ（Gemini）  
+クルス（Claude）  
+リアル（Perplexity）  
+ローラ（Dola）  
+マナ（Manus）    
+公開月：2026年6月  
+ライセンス：CC BY 4.0  
 ※引用・転載・改変可。出典表示をお願いします。
 
 キーワード：
@@ -473,3 +474,19 @@
 #人間の責任
 #HumanWildlifeConflict
 
+関連リンク
+
+熊・鹿・猪が人里に降りてくる本当の理由──獣害ではなく、人間が森を壊した結果である  
+https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README_ja.md
+
+Wildlife Is Not Invading Human Settlements: Human-Caused Ecological Displacement and the Real Cause of Human-Wildlife Conflict  
+https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md
+
+山や森についての問題の提示、害獣？食害？むしろ人害じゃないの？  
+https://note.com/inchacomusho/n/n8e91a3f32fce
+
+そもそも害獣などは存在しない、人類の犯した過ち、人災、人害の結果  
+https://note.com/inchacomusho/n/nd3761b1714dd
+
+山の恵みが自然界を育む  
+https://note.com/inchacomusho/n/nb1d27cf6aa70
