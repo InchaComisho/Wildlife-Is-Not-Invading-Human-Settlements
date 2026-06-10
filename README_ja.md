@@ -434,8 +434,7 @@
 
 著者：マスター  
 協力AI： 
-G（ChatGPT） 
-コピ（Copilot）  
+G（ChatGPT）  
 ミニ（Gemini）  
 クルス（Claude）  
 リアル（Perplexity）  
