@@ -1,5 +1,7 @@
 # Wildlife Is Not Invading Human Settlements
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## Human-Caused Ecological Displacement and the Real Cause of Human-Wildlife Conflict
 
 [日本語版はこちら / Japanese version](README_ja.md)
