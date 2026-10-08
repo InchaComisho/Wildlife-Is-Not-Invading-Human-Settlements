@@ -514,13 +514,10 @@ Humans broke the natural systems that kept wildlife and human settlements apart.
 https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README_ja.md
 
 * 山や森についての問題の提示、害獣？食害？むしろ人害じゃないの？  
-https://note.com/inchacomusho/n/n8e91a3f32fce
 
 * そもそも害獣などは存在しない、人類の犯した過ち、人災、人害の結果  
-https://note.com/inchacomusho/n/nd3761b1714dd
 
 * 山の恵みが自然界を育む  
-https://note.com/inchacomusho/n/nb1d27cf6aa70
 
 ---
 
